@@ -1,2 +1,2 @@
 # My_Project
-My coding journey stored here.
+Restuarent Management System Project in Java
